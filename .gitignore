@@ -1,5 +1,5 @@
 *.DS_Store
 data/dicom
 data/work
-meta_run_jupyter_scotty.sh
+run_jupyter_scotty.sh
 meta_run_jupyter_scotty.sh
