@@ -1,0 +1,4 @@
+[submodule "data/bids"]
+	path = data/bids
+	url = ./data/bids
+	datalad-id = 3e0294b8-e4cc-47f4-9fa6-6f52e5a6e4b6
