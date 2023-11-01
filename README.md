@@ -1,6 +1,6 @@
 # Attention to Attention
 
-This respository contains code for the study: Attention To Attention: Monitoring Attentional State In Self And Others 
+This respository contains resources for the study: Attention To Attention: Monitoring Attentional State In Self And Others 
 
 
 ## Description
@@ -22,6 +22,9 @@ A similar network of areas in the cerebral cortex was implicated in both conditi
 
 ### fMRI prep preprocessing code
 - preprocessing: (`/code/preprocessing`)
+
+### Data
+- data is available here: https://www.dropbox.com/sh/q51dsflo1riw9rf/AABcle7SHyfWi04KIAdcF-n-a?dl=0
 
 ### Getting Started
 * Clone the Repo
