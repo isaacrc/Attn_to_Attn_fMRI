@@ -50,13 +50,8 @@ Michael S. A. Graziano
 
 
 
-## Version History
-
-
 ## License
 
 This project is licensed under the GNU License - see the LICENSE.md file for details
 
-## Acknowledgments
 
-Inspiration, code snippets, etc.
