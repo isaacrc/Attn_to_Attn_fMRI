@@ -40,12 +40,9 @@ pip install environment.yml
 cd data
 wget https://www.dropbox.com/sh/q51dsflo1riw9rf/AABcle7SHyfWi04KIAdcF-n-a?dl=0
 ```
-## Help
 
 
 ## Authors
-
-Contributors names: <br>
 Isaac R. Christian <br>
 Samuel A. Nastase <br>
 Mindy Yu  <br>
