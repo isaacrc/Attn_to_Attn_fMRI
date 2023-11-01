@@ -1,5 +1,5 @@
 # Data Directory
-fMRI data exists at this link: https://www.dropbox.com/home/bids
+fMRI data exists at this link: https://www.dropbox.com/sh/q51dsflo1riw9rf/AABcle7SHyfWi04KIAdcF-n-a?dl=0
 
 
 ## Description
