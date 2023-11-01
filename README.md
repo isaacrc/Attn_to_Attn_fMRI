@@ -1,6 +1,6 @@
 # Attention to Attention
 
-This respository contains code for the study Attention To Attention: Monitoring Attentional State In Self And Others 
+This respository contains code for the study: Attention To Attention: Monitoring Attentional State In Self And Others 
 
 
 ## Description
@@ -25,13 +25,17 @@ A similar network of areas in the cerebral cortex was implicated in both conditi
 
 ### Getting Started
 * Clone the Repo
-* Download Behavioral
-* install environement dependencies 
+* install environement dependencies
 ```
 cd code
 pip install environment.yml
 ```
 
+* Download fMRI data via dropbox
+```
+cd data
+wget https://www.dropbox.com/sh/q51dsflo1riw9rf/AABcle7SHyfWi04KIAdcF-n-a?dl=0
+```
 ## Help
 
 
