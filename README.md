@@ -20,12 +20,10 @@ A similar network of areas in the cerebral cortex was implicated in both conditi
 - Code to identify button press counts (`./code/analysis/behavioral`)
 - Head Motion (`./code/analysis/head_mot`)
 
-### Installing
+### fMRI prep preprocessing code
+- preprocessing: (`/code/preprocessing`)
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
-
-### Executing program
+### Getting Started
 
 * First install environement dependencies 
 ```
@@ -35,15 +33,14 @@ pip install environment.yml
 
 ## Help
 
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
 
 ## Authors
 
 Contributors names and contact info
-Isaac R. Christian, Samuel A. Nastase, Mindy Yu, Michael S. A. Graziano ![image](https://github.com/isaacrc/Attn_to_Attn_fMRI/assets/78324078/7fad4cd3-cf98-474d-a0f2-39aa5fa18a23)
+Isaac R. Christian
+Samuel A. Nastase
+Mindy Yu, Michael
+S. A. Graziano
 
 
 
