@@ -27,10 +27,10 @@ A similar network of areas in the cerebral cortex was implicated in both conditi
 
 ### Executing program
 
-* How to run the program
-* Step-by-step bullets
+* First install environement dependencies 
 ```
-code blocks for commands
+cd code
+pip install environment.yml
 ```
 
 ## Help
