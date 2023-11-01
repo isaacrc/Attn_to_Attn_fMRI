@@ -45,11 +45,11 @@ wget https://www.dropbox.com/sh/q51dsflo1riw9rf/AABcle7SHyfWi04KIAdcF-n-a?dl=0
 
 ## Authors
 
-Contributors names
-Isaac R. Christian
-Samuel A. Nastase
-Mindy Yu, Michael
-S. A. Graziano
+Contributors names: <br>
+Isaac R. Christian <br>
+Samuel A. Nastase <br>
+Mindy Yu  <br>
+Michael S. A. Graziano
 
 
 
