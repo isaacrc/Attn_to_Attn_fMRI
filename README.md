@@ -17,15 +17,16 @@ A similar network of areas in the cerebral cortex was implicated in both conditi
 - GLM analysis (`./code/analysis/GLM`)
 - MVPA analysis (`./code/analysis/MVPA`)
 - Preprocessing after fMRI prep (`./code/analysis/preproc`)
-- Code to identify button press counts (`./code/analysis/behavioral`)
+- Behavioral data (`./code/analysis/behavioral`)
 - Head Motion (`./code/analysis/head_mot`)
 
 ### fMRI prep preprocessing code
 - preprocessing: (`/code/preprocessing`)
 
 ### Getting Started
-
-* First install environement dependencies 
+* Clone the Repo
+* Download Behavioral
+* install environement dependencies 
 ```
 cd code
 pip install environment.yml
