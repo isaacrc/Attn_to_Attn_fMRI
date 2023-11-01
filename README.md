@@ -18,6 +18,7 @@ A similar network of areas in the cerebral cortex was implicated in both conditi
 - MVPA analysis (`./code/analysis/MVPA`)
 - Preprocessing after fMRI prep (`./code/analysis/preproc`)
 - Behavioral data (`./code/analysis/behavioral`)
+- 3dttest (`./code/analysis/3dttest`)
 - Head Motion (`./code/analysis/head_mot`)
 
 ### fMRI prep preprocessing code
