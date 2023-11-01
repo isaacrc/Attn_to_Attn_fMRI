@@ -45,7 +45,7 @@ wget https://www.dropbox.com/sh/q51dsflo1riw9rf/AABcle7SHyfWi04KIAdcF-n-a?dl=0
 
 ## Authors
 
-Contributors names and contact info
+Contributors names
 Isaac R. Christian
 Samuel A. Nastase
 Mindy Yu, Michael
