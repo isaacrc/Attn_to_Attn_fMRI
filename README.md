@@ -5,7 +5,9 @@ This respository contains code for the study Attention To Attention: Monitoring 
 
 ## Description
 
-People can attend to their own attention. We can also pay attention to what someone else’s attention is doing. This ability to monitor attention and know when it is on or off target is fundamental for both cognitive control and social cognition. We measured people’s brain activity in an MRI scanner while they monitored their own attention or the attention of an actor in a video. A similar network of areas in the cerebral cortex was implicated in both conditions, including areas known to be involved in thinking about the minds of others, suggesting that a similar mechanism is used to understand and monitor oneself and others. ![image](https://github.com/isaacrc/Attn_to_Attn_fMRI/assets/78324078/83411e04-d7a4-47a1-8481-b3be2b9a6e27)
+People can attend to their own attention. We can also pay attention to what someone else’s attention is doing. This ability to monitor attention and know when it is on or off target is fundamental for both cognitive control and social cognition. 
+We measured people’s brain activity in an MRI scanner while they monitored their own attention or the attention of an actor in a video. 
+A similar network of areas in the cerebral cortex was implicated in both conditions, including areas known to be involved in thinking about the minds of others, suggesting that a similar mechanism is used to understand and monitor oneself and others
 
 
 ## Navigation
