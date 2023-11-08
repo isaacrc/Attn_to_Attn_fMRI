@@ -1,6 +1,6 @@
 # Attention to Attention
 
-This respository contains code for the study Attention To Attention: Monitoring Attentional State In Self And Others 
+This respository contains resources for the study: Attention To Attention: Monitoring Attentional State In Self And Others 
 
 
 ## Description
@@ -18,40 +18,40 @@ A similar network of areas in the cerebral cortex was implicated in both conditi
 - MVPA analysis (`./code/analysis/MVPA`)
 - Preprocessing after fMRI prep (`./code/analysis/preproc`)
 - Behavioral data (`./code/analysis/behavioral`)
+- 3dttest (`./code/analysis/3dttest`)
 - Head Motion (`./code/analysis/head_mot`)
 
 ### fMRI prep preprocessing code
 - preprocessing: (`/code/preprocessing`)
 
+### fMRI Data
+- fMRI data is available here: https://www.dropbox.com/sh/q51dsflo1riw9rf/AABcle7SHyfWi04KIAdcF-n-a?dl=0
+
 ### Getting Started
 * Clone the Repo
-* Download Behavioral
-* install environement dependencies 
+* install environement dependencies
 ```
 cd code
 pip install environment.yml
 ```
 
-## Help
+* Download fMRI data via dropbox
+```
+cd data
+wget https://www.dropbox.com/sh/q51dsflo1riw9rf/AABcle7SHyfWi04KIAdcF-n-a?dl=0
+```
 
 
 ## Authors
+Isaac R. Christian <br>
+Samuel A. Nastase <br>
+Mindy Yu  <br>
+Michael S. A. Graziano
 
-Contributors names and contact info
-Isaac R. Christian
-Samuel A. Nastase
-Mindy Yu, Michael
-S. A. Graziano
-
-
-
-## Version History
 
 
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+This project is licensed under the GNU License - see the LICENSE.md file for details
 
-## Acknowledgments
 
-Inspiration, code snippets, etc.
