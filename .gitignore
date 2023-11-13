@@ -1,5 +1,6 @@
 *.DS_Store
 *ipynb_checkpoints
+.DataLad
 data/dicom
 data/work
 run_jupyter_scotty.sh
